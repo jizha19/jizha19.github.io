@@ -6,7 +6,8 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am currently working as a postdoctoral researchernat [Shanghai Jiao Tong Uiversity](https://www.sjtu.cn/) after six years research stay at [Université Laval](https://www.ulaval.ca/en). I have strong interest in the field of polymer physics such as rheology, mechanical fatigue/fracture of nanocomposites, biobased and recycled polymers, and fluid dynamics. Throughout my academic and journey, I have demonstrated a passion for understanding the fundamental behavior of complex materials and have made my contributions to the field through the
+research. I have extensive experience in characterizing the mechanical and rheological properties of polymers, as well as investigating the effects of mechanical fatigue/fracture, rheology on these materials. Additionally, I have a keen interest in the fluid dynamics in polymeric products fabrication and have conducted research on the behavior of fluids in these complex environments. With a commitment to excellence in research and a dedication to advancing the field of polymer science, I can be a valuable asset to the team or project.
 
 ## Research Interest
 
@@ -20,15 +21,14 @@ I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.
 - **B.Sc. in Mechanical Engineering**, 2008 - 2012, [Xiangtan Univeristy](https://www.xtu.edu.cn), Xiangtan, China
 
 ## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
+- **Phd scholarship**, 2016-2020, Grant Number: 201608320227
+- **Mitacs Globalink Award**, 2022, Grant Number: IT32436
 
-## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
 
 ## Certificates
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 {% include_relative _includes/news.md %}
 
