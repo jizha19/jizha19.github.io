@@ -4,7 +4,7 @@
 
 <p><strong>Address:</strong> <a href="https://www.google.com/maps/place/10+Bd+Thomas+Gobert,+91120+Palaiseau/@48.7124352,2.194429,17z/data=!3m1!4b1!4m6!3m5!1s0x47e678bdc3c9eee5:0xb68bc1fb5222c860!8m2!3d48.7124317!4d2.1970093!16s%2Fg%2F11h2c29d0k?entry=ttu">800, Dongchuan Road, 200240</a>
 <br />
-<strong>Office Location:</strong> Advanced Rheology Institute
+<strong>Office Location:</strong> Advanced Rheology Institute, A505
 <br />
 <strong>Email:</strong> <email>jizha19@sjtu.edu.cn</email>
 <br />
