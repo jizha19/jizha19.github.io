@@ -10,21 +10,14 @@ I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.
 
 ## Research Interest
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Polymer Physics:** Rheology, Mechanics, Multi-scale characterizations
+- **Machine Learning:** AI accelerated MD simulation
+- - **Fluid dynamics**
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
+- **Ph.D. in Chemical Engineering**, 2016 - 2021, [Université Laval](https://www.ulaval.ca/en), Quebéc, Canada
+- **M.Sc. in Mechanical Engineering**, 2012 - 2015, [BTU Cottbus](https://www.b-tu.de/en/), Cottbus, Germany
+- **B.Sc. in Mechanical Engineering**, 2008 - 2012, [Xiangtan Univeristy](https://www.xtu.edu.cn), Xiangtan, China
 
 ## Grants and Fellowships
 - **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
