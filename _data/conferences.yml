@@ -41,19 +41,21 @@ main:
     web: https://bemagic-etn.eu/news/73-joint-workshop-bemagic-magnefi-at-aalto-university-post-event
     image: ./assets/img/joint.jpg
 
-  - title: BeMAGIC Summer School&#58; Setting gateway to academia (UCAM)
+  - title: Emulating liquid drainage in oscillating packed beds for marine applications
+    authors: Jian Zhang; Taghavi, Seyed; Larachi, Faiçal*
     conference_short: BeMAGIC
-    conference:  BeMAGIC Winter School&#58; Magnetoelectricity in biomedicine healthcare for the 21st century ETH Zürich
-    abstract: The next BeMAGIC workshop, organized by the University of Cambridge, will take place online on 7-9 April 2021 (workshop) and 10-11 May 2021 (training in soft skills).   
+    conference:  11th International Symposium on Catalysis in Multiphase Reactors & 10th International Symposium on Multifunctional Reactors
+    abstract: The NASCRE4 was successfuly organized in Milan, Italy, March 21- 24 2021.   
     #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: https://bemagic-etn.eu/news/62-bemagic-summer-school-post-event
+    #web: https://bemagic-etn.eu/news/62-bemagic-summer-school-post-event
     image: ./assets/img/Portada-cc58d654.jpg
 
-  - title: BeMAGIC WORKSHOP AT GTECM
-    conference_short: BeMAGIC
-    conference:  BEMAGIC Workshop - Gateway to industry&#58;innovation, entrepreneurship and marketable products using ME technology
-    abstract: The BeMAGIC Workshop at GTECM was successfuly organized in Innsbruck, Austria, from 13 to 16 December 2022.
-    pdf: https://bemagic-etn.eu/images/files2022/BeMagic_Workshop_GTECM_agenda.pdf
-    web: https://bemagic-etn.eu/news/77-bemagic-workshop-at-gtecm-post-event
+  - title: Hydrodynamics of gas-liquid countercurrent flow in random and structured packed column on floating platforms for offshore marine application
+    authors: Jian Zhang; Dashliborun, M. Air; Taghavi, Seyed; Larachi, Faiçal*
+    conference_short: NASCRE4
+    conference:  4th North American Symposium for Chemical Reaction Engineering
+    abstract: The NASCRE4 was successfuly organized in Huston, Texas, USA, from 10 to 13 March 2019.
+    #pdf: https://bemagic-etn.eu/images/files2022/BeMagic_Workshop_GTECM_agenda.pdf
+    #web: https://bemagic-etn.eu/news/77-bemagic-workshop-at-gtecm-post-event
     image: ./assets/img/lF0ulCNA.jpeg
 
