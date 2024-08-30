@@ -12,7 +12,7 @@ I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.
 
 - **Polymer Physics:** Rheology, Mechanics, Multi-scale characterizations
 - **Machine Learning:** AI accelerated MD simulation
-- - **Fluid dynamics**
+- **Fluid dynamics**
 
 ## Education
 - **Ph.D. in Chemical Engineering**, 2016 - 2021, [Université Laval](https://www.ulaval.ca/en), Quebéc, Canada
