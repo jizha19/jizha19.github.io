@@ -28,9 +28,9 @@ main:
 
   - title: Emulating liquid drainage in oscillating packed beds for marine applications
     authors: Zhang, Jian; Taghavi, Seyed; Larachi, Faiçal*
-    conference_short: BeMAGIC
+    conference_short: CAMURE-11 & ISMR-10
     conference: 11th International Symposium on Catalysis in Multiphase Reactors & 10th International Symposium on Multifunctional Reactors
-    abstract: The NASCRE4 was successfuly organized in Milan, Italy, March 21- 24 2021.   
+    abstract: The  CAMURE-11 & ISMR-10 was successfuly organized in Milan, Italy, March 21- 24 2021.   
     #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
     #web: https://bemagic-etn.eu/news/62-bemagic-summer-school-post-event
     image: ./assets/img/Portada-cc58d654.jpg
