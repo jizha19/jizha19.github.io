@@ -15,7 +15,7 @@ main:
     abstract: The SoR-93, took place in Chicago, USA, 9-13 October 2022. 
     #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
     #web: https://bemagic-etn.eu/news/68-bemagic-winter-school-post-event
-    image: ./assets/img/eth.jpg
+    image: ./assets/img/C4.jpg
 
   - title: Processing and properties of recycled high-density polyethylene. [Keynote]
     authors: Zhang, Jian; Hirschberg, Valerian; Rodrigue, Denis*
@@ -24,7 +24,7 @@ main:
     abstract: The PPS-37 at Fukuoka, Japan, took place from 11 to 15 April 2022.  
     #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
     #web: https://bemagic-etn.eu/news/73-joint-workshop-bemagic-magnefi-at-aalto-university-post-event
-    image: ./assets/img/joint.jpg
+    image: ./assets/img/C3.jpg
 
   - title: Emulating liquid drainage in oscillating packed beds for marine applications
     authors: Zhang, Jian; Taghavi, Seyed; Larachi, Faiçal*
@@ -33,7 +33,7 @@ main:
     abstract: The  CAMURE-11 & ISMR-10 was successfuly organized in Milan, Italy, March 21- 24 2021.   
     #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
     #web: https://bemagic-etn.eu/news/62-bemagic-summer-school-post-event
-    image: ./assets/img/Portada-cc58d654.jpg
+    image: ./assets/img/C2.jpg
 
   - title: Hydrodynamics of gas-liquid countercurrent flow in random and structured packed column on floating platforms for offshore marine application
     authors: Zhang, Jian; Dashliborun, M. Air; Taghavi, Seyed; Larachi, Faiçal*
