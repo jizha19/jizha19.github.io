@@ -13,7 +13,7 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
          <abbr class="badge">{{ link.conference_short }}</abbr>
     
-  //<img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100%;height=auto">//
+  <!<img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100%;height=auto">>
     
             
   </div>
